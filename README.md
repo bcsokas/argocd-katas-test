@@ -26,5 +26,3 @@ The repository is structured as follows:
 ├── setup.md
 └── trainer # Trainer folder
 ```
-
-
